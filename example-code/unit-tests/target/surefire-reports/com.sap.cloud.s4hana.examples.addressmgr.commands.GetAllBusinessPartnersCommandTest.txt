@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.sap.cloud.s4hana.examples.addressmgr.commands.GetAllBusinessPartnersCommandTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.146 s - in com.sap.cloud.s4hana.examples.addressmgr.commands.GetAllBusinessPartnersCommandTest
